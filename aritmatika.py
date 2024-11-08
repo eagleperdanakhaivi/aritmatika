@@ -1,6 +1,6 @@
 def deret_aritmatika(n):
     # Inisialisasi nilai awal dan selisih
-    awal = 2
+    raulemos = 2
     selisih = 3
     deret = []
     
